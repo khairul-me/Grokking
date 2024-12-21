@@ -1,0 +1,8 @@
+{
+    "grokking_epoch": 3552,
+    "final_train_loss": 8.857578563947754e-07,
+    "final_test_loss": 0.01139365416020155,
+    "final_train_acc": 1.0,
+    "final_test_acc": 0.9977626204490662,
+    "total_epochs": 25000
+}
